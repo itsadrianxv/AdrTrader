@@ -1,0 +1,11 @@
+[mode]
+name="local"
+[contract]
+symbol="IF2406"
+tick_size=0.2
+multiplier=300.0
+[max]
+order_size=1
+position=1
+loss=1000.0
+
